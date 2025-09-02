@@ -35,3 +35,14 @@ What begins as the simple propagation of life unfolds into higher-order systems.
 Evolution is both the origin and a participant in the self-organizing dynamics of living systems. It provides the blueprints: in humans, genetics determine the initial architecture of the brain, while experience and interaction shape how that architecture develops.
 
 From this foundation emerge features that can surprise us: self-repairing mechanisms, genetic strategies that guide variation more intelligently than randomness, and layers of complexity that never cease to astonish.
+
+### The limits and the shortcomings
+As remarkable as evolution is, it is just as brilliant as it is blind.
+
+There is no awareness guiding its course. The system cannot leap ahead to an obvious improvement, even when the advantage would be clear to an outside observer. Change can only arrive incrementally. At times, evolution even entangles itself in the very complexity it produces.
+
+Consider one often-overlooked example: human conception. A new individual begins with the merging of two gametes — sperm and egg. This event defines the blueprint of the body, including the brain. Yet the entire design must be encoded in a remarkably narrow channel: a genome amounting to only a few gigabits of information.
+
+This bottleneck is both astonishing and constraining. It is as if we tried to advance AI frontier models by deleting them every 20 years and preserving only a compressed version on a flash drive. Each new model would then need to be painstakingly re-expanded and retrained from scratch.
+
+And in reality, the biological case is even more restrictive: organisms do not directly access or edit the blueprint itself. Development is governed by layers of regulatory processes, many of which cannot simply be bypassed.
