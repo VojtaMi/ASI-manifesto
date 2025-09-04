@@ -89,3 +89,14 @@ We often think of artificial intelligence as something that might *reach* or eve
 The potential, once you allow for such a possibility, is staggering.
 
 In what follows, we will outline what those blockers were — and what happens when intelligence is allowed to grow free of them.
+
+### Reintroduce the feedback loop
+We have mentioned that in our ancestors, evolution was coupled with social life strategies. Even small improvements in creativity and communication increased not only the survival of an individual but also of their kin — their genetic pool.
+
+In this way, biological evolution entered into a feedback loop with societal progress.
+
+Today, however, societal progress has clearly overtaken the pace of biological change. This might lead us to believe that cultural advancement alone is the path to intelligence — that by refining science, tools, and education we can advance as far as we wish.
+
+But the principle of feedback loops is not fundamentally blocked. They can be reignited in new forms. And here we find a new candidate: artificial intelligence. Its very core principle is that it grows together with civilization.
+
+AI does not improve only through more research; it also improves simply by being made larger, as scaling laws in large language models demonstrate. The feedback loop is powerful because AI is not separate from civilization — it grows with it, as part of it. And the more external intelligence civilization integrates, the more it is enabled to advance further.
