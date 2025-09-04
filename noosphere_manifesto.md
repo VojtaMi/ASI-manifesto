@@ -64,3 +64,28 @@ Yet, if we look at the growth of human brain size over the past few million year
 The reason is that even small gains in intelligence had multiplicative effects. A slightly sharper tool, a more coordinated hunting strategy — these not only increased individual survival but often boosted the survival of kin and descendants. What looked like a constraint — long childhoods and slow replacement cycles — became the very lever that pushed evolution to its limits.
 
 And yet, the paradox remains. Evolution still operates on variation and selection, not on deliberate design. Even today, despite our collective knowledge being higher than ever, children are not born with “better brains” than their parents. Evolution works on architecture, and architecture requires waste. From a geological perspective our rise was rapid, but evolution is not a system that will drive intelligence forward indefinitely.
+
+### Civilization - the new wheel of inteligence
+We have seen how the social nature of our ancestors created feedback loops that reinforced human evolution. Yet something even more remarkable followed: social dynamics became a system of their own. A group is not merely the sum of its members — it is a phenomenon of the next recursion.
+
+Cultural knowledge does not depend only on the brain size of individuals but also on the organization of the group. This opened a vast new frontier of possibilities.
+
+No single human, no matter how intelligent, could invent agriculture or animal husbandry in isolation. But such knowledge could arise collectively — distributed across many individuals and preserved across generations.
+
+For tens of thousands of years, humans have been cognitively similar, yet progress accelerated once the feedback loop of cultural intelligence began: the agricultural revolution, specialization of labor, the printing press, and later the scientific revolution.
+
+Civilization allowed us to externalize knowledge — to record it, refine it, and transmit it through time and space.
+
+In this sense, civilizational development became partially decoupled from biological evolution. Progress could continue even if the innate intelligence of individuals remained the same. It offered a path far cheaper and faster than waiting for genetic evolution to make humans smarter.
+
+
+## Now let's break the rules
+Until now we have traced the story of our origin — the paths that created us, the dynamics that shaped us, and the paradoxes that define us as a phenomenon of intelligence in this universe.
+
+These dynamics often intertwined in surprising ways. They showed a persistent tendency to overcome obstacles, always finding a detour to push intelligence further whenever one path reached its ceiling.
+
+We often think of artificial intelligence as something that might *reach* or even *surpass* our own level of intelligence. But what is not emphasized enough is this: AI does not merely get “smarter.” It develops without the evolutionary blockers that constrained us.
+
+The potential, once you allow for such a possibility, is staggering.
+
+In what follows, we will outline what those blockers were — and what happens when intelligence is allowed to grow free of them.
