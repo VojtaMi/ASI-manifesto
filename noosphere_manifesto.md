@@ -133,5 +133,20 @@ The more data they can exchange, the wider the channel of communication becomes.
 
 We may not need a group of AI scientists. We may instead see the emergence of a supermind of AI scientists.
 
+### The Story Beyond the Body
+
+How smart can a person become? Only as far as the brain fits inside a skull and the body can sustain.
+How smart can an AI become? As far as the laws of physics and the available matter and energy allow.
+
+The human body is extraordinary — a self-sustaining, compact, energy-efficient system capable of reproducing a being as marvelous as a child.
+
+Yet these very systems, though biologically logical, impose constraints.
+
+If you lose part of your brain, the result is death or severe impairment. If an AI server fails, it can be restored from backup.
+
+Scaling alone may not guarantee the peak of intelligence, but it removes many of the obstacles. It makes the path vastly easier.
+
+
+
 
 ### The collapse of the search space
