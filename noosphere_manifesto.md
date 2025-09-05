@@ -99,4 +99,39 @@ Today, however, societal progress has clearly overtaken the pace of biological c
 
 But the principle of feedback loops is not fundamentally blocked. They can be reignited in new forms. And here we find a new candidate: artificial intelligence. Its very core principle is that it grows together with civilization.
 
-AI does not improve only through more research; it also improves simply by being made larger, as scaling laws in large language models demonstrate. The feedback loop is powerful because AI is not separate from civilization — it grows with it, as part of it. And the more external intelligence civilization integrates, the more it is enabled to advance further.
+AI does not improve only through more research; it also improves simply by being made larger, as scaling laws in large language models demonstrate. The feedback loop is powerful because AI is not separate from civilization — it grows with it, as part of it. And the more external intelligence civilization integrates, the more it is enabled to 
+advance further.
+
+### The World of Agents
+Humans form societies, each of us a separate individual. With varying degrees of success, we coordinate in groups.
+
+We are a social species, with brain centers specialized for language and interaction. Yet even these systems are shaped by evolutionary constraints.
+
+Consider the children’s game of *Chinese whispers*: a group forms a chain, and a message is whispered from one player to the next. By the end, the message is often compressed, distorted, or transformed into something entirely different.
+
+Human communication is slow, our minds are separate, and without external tools such as writing, knowledge is fragile and easily lost.
+
+But these limits are not inherent to communication itself — they are the result of our biological architecture.
+
+If two AI systems played the same game, they would not struggle to preserve the message. They could transmit sentences without error, or even communicate in ways we cannot — describing an image down to the pixel, or exchanging the very architecture of their neural networks.
+
+We can partially overcome our constraints with tools, and indeed it is through tools that civilization has advanced faster than biology. But the separation between the tool and the mind is not inherent.
+
+
+### When many can become one
+The difference in communication bandwidth and access to one’s own architecture is not merely an improvement in communication — it is a qualitative shift.
+
+Human civilization carries a massive duplication overhead. Each person must learn to read and write from scratch. Each scientist must relearn what countless others have already discovered. Each teacher must repeat what has already been taught to countless students before.
+
+This is not inherent to intelligence itself — it is a consequence of our biological constraints.
+
+Artificial intelligence operates differently. If you create an AI scientist, you create it once, and it persists. Large language models already illustrate this principle: GPT-5 was trained once, and it endures. It can exist in many instances, but it does not die.
+
+And these AI scientists can communicate with one another — not through the narrow channel of words, but in vast and open ways.
+
+The more data they can exchange, the wider the channel of communication becomes. At some point, the process no longer resembles conversation at all. It begins to resemble thinking.
+
+We may not need a group of AI scientists. We may instead see the emergence of a supermind of AI scientists.
+
+
+### The collapse of the search space
